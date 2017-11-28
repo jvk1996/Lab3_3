@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Lab3_3</string>
+    <string name="age">Umur</string>
+    <string name="gender">Jantina</string>
+    <string name="male">Lelaki</string>
+    <string name="female">Perempuan</string>
+    <string name="calculate">Kira</string>
+    <string name="smoker">Perokok?</string>
+    <string name="premium">Premium:</string>
+    <string name="reset">Semula</string>
+    <string-array name="age_group">
+        <item>Kurang daripada 5</item>
+        <item>5 hingga 11</item>
+        <item>12 hingga 16</item>
+        <item>17 hingga 21</item>
+        <item>22 hingga 30</item>
+        <item>31 hingga 40</item>
+        <item>41 hingga 50</item>
+        <item>lebih 50</item>
+    </string-array>
+
+
+
+
+
+</resources>
